@@ -20,7 +20,7 @@ The database has a static view of homeowners, contact information, and propertie
 
 ## Functional Requirements
 
-* An administrator should be able to keep track of all homes and addresses in a neighborhood. Once basic address information has been entered, the will have a record of homes that have violations, when and what the violation was recorded for, how many notices were sent for the same violation, and when the violation was marked as resolved. The user should be able to query each data field individually. A view has been created where multiple tables are joined to make relating data easier.
+* An administrator should be able to keep track of all homes and addresses in a neighborhood. Once basic address information has been entered, the database can go on to take record of homes that have violations, when and what the violation was recorded for, how many notices were sent for the same violation, and when the violation was marked as resolved. The user should be able to query each data field individually. A view has been created where multiple tables are joined to make relating data easier.
 
 * Beyond the scope of the software are fines assessed to homeowners and specific covenants violated.
 
